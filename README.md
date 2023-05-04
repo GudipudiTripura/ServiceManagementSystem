@@ -1,6 +1,12 @@
 # Servicemanagementsystem
 Serve The World
 
+Requirements :  
+Eclipse – Java
+Mysql – Database
+Tomcat Apache - Springboot
+
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/121210236/236120547-3e1dd329-91fb-4289-912d-ace1b424e1ee.png">
 
 
