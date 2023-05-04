@@ -2,8 +2,8 @@
 Serve The World
 
 Requirements :  
-Eclipse – Java
-Mysql – Database
+Eclipse – Java ,
+Mysql – Database ,
 Tomcat Apache - Springboot
 
 
